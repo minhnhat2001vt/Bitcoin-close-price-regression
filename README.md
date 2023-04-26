@@ -1,5 +1,5 @@
 # Bitcoin-close-price-regression
-This is a group project in a Natural Language Processing (NLP) coursework, UEH university. The goal of this project is to build a NLP model that can label tweets under certain topics.
+This is a group project in a Machine Learning coursework, UEH university. The goal of this project is to build a model that can predict close price of Bitcoin in the next day based on historical data.
 ## Project overview
 ### 1. Data acquisition
 - Bitcoin historical data, S&P500 index and Gold price is collected from Yahoo Finnance and stored in a CSV file
